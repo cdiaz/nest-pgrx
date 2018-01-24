@@ -1,5 +1,4 @@
-<center>![Nest](assets/logo.png)</center>
-
+![Nest](assets/logo.png)
 ## Description
 
 Project made with nest and use [pg-reactive](https://github.com/haoliangyu/pg-reactive)
