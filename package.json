@@ -10,9 +10,9 @@
     "start:prod": "node dist/main.js"
   },
   "dependencies": {
-    "@nestjs/common": "^4.5.9",
-    "@nestjs/core": "^4.5.10",
-    "@nestjs/microservices": "^4.5.8",
+    "@nestjs/common": "^4.6.0",
+    "@nestjs/core": "^4.6.0",
+    "@nestjs/microservices": "^4.6.0",
     "@nestjs/testing": "^4.5.5",
     "@nestjs/websockets": "^4.5.8",
     "pg-reactive": "^0.3.2",
